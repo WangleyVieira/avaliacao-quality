@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos atendidos:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/WangleyVieira/AppIgniteFeed.git
+   git clone https://github.com/WangleyVieira/avaliacao-quality.git
    cd ignite-feed 
    ```
 2. **Instale as dependências**
