@@ -20,7 +20,6 @@ Antes de começar, certifique-se de ter os seguintes requisitos atendidos:
 
    ```bash
    git clone https://github.com/WangleyVieira/avaliacao-quality.git
-   cd ignite-feed 
    ```
 2. **Instale as dependências**
 
